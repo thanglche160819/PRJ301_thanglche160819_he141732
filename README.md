@@ -6,5 +6,8 @@ Author: Luu Canh Thang - thanglche160819
 
 Ngo Vuong - HE151732
 
+Database script (please run this before run the project, using SQL Server Management Studio): 
+
+            https://gist.github.com/thanglche160819/51e5e9636886c8ac9d805128bc5b294d
 
 
